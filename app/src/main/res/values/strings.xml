@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Zumba Fusion Fitness Club</string>
+    <string name="zumba_text">Folks, if you are looking to join a club to get fit and have fun, You are at the right place</string>
+    <string name="zumba_textdetails">Hello People!!! You want to DANCE, STAY FIT and Stay Healthy? Here you are</string>
+    <string name="zumba_world">ZUMBA THE ULTIMATE FITNESS</string>
+    <string name="zumba_logo">This is a Zumba logo</string>
+    <string name="image_content">This is Zumba Fitness app</string>
+    <string name="contact_us">To schedule your demo class, Call Us at +1 571 620 9189
+        </string>
+    <string name="working_hrs">We are open from 8AM to 8PM Weekdays 9AM to 7PM on Weekends</string>
+    <string name="location">We are located at 12734 NE 101st Pl, Kirkland, WA.
+        </string>
+    <string name="text_with_paragraphs">
+        Zumba is an exercise fitness program that combines fast and slow
+        rhythms that tone and sculpt the body using principles from aerobic
+        and fitness to achieve cardio and muscle-toning benefits.
+
+        Zumba classes are typically about an hour long and are taught by instructors
+        licensed by Zumba Fitness, LLC. In one Zumba class, a person can burn up to 600
+        calories, depending on the energy put forth.
+
+        Zumba is a total-body cardio and aerobic workout, which provides a large calorie consumption.
+        A study shows that a person burns 300 to 900kcal with an hour-long Zumba exercise.
+
+        Because Zumba offers different options, proponents of the Zumba program claim that it is safe
+        for all ages, meaning that anyone from age 0 to 100 can participate in this form of aerobic exercise.
+        Some of the classes are specifically aimed at elderly people, to help them build strength, improve
+        motion and posture, and socialize.
+
+        Besides its high calorie burning benefit, Zumba can help lower the risk of heart disease, reduce
+        the blood pressure and bad cholesterol, and increase your good cholesterol.
+
+        Because Zumba offers different options, proponents of the Zumba program claim that it is safe
+        for all ages, meaning that anyone from age 0 to 100 can participate in this form of aerobic exercise.
+        Some of the classes are specifically aimed at elderly people, to help them build strength, improve
+        motion and posture, and socialize.
+
+        Besides its high calorie burning benefit, Zumba can help lower the risk of heart disease, reduce
+        the blood pressure and bad cholesterol, and increase your good cholesterol.
+
+        To join us, Call us +1 571 620 9189
+
+        We are open from 8AM to 8PM Weekdays
+
+    </string>
+
+</resources>
